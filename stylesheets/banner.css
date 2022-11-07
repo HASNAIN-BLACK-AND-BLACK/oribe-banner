@@ -23,7 +23,7 @@
 {
 
     #oribe-main-product-grid-row > .banner_product.blocks_2  {
-        grid-area: 2 / 3 / 2 /  5;
+        grid-area: 2 / 3 / 4 /  5;
         height: 100%;
     }
 }
